@@ -34,7 +34,7 @@ class Login(object):
             socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((host, port))
             return True
         except socket.error as ex:
-            print(ex)
+            logging.info(ex)
             return False
 
     def auto_login(self):
