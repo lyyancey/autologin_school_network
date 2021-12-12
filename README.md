@@ -39,3 +39,5 @@ Chrome版本的查看方式为:
 
 - 不要在挂代理的情况下使用`Anaconda Prompt`,不然会报错。
 - 不要在挂代理的情况下使用这个脚本，否则连不上校园网。
+
+![Alt](https://repobeats.axiom.co/api/embed/f4dd2058df9141bd2b115eba406370069e1fe7db.svg "Repobeats analytics image")
